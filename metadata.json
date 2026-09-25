@@ -1,0 +1,6 @@
+{
+  "name": "CyberNet",
+  "description": "Cyberpunk browser with multi-tab browsing, ad and tracker blocking, in-page fullscreen video, and Media3 ExoPlayer local video playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
